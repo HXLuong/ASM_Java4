@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/dao/CartDao.java=UTF-8
+encoding//src/main/java/filters/AuthFilter.java=UTF-8
+encoding//src/main/java/servlet/CartServlet.java=UTF-8
+encoding//src/main/java/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/servlet/ProductServlet.java=UTF-8
+encoding//src/main/java/servlet/ThongKeServlet.java=UTF-8
+encoding//src/main/java/servlet/UserServlet.java=UTF-8
+encoding//src/main/webapp/views/header.jsp=UTF-8
